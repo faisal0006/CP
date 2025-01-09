@@ -21,4 +21,4 @@ for _ in range(t):
     elif(Ncnt%2==1):
         print(1)
     else:
-        print(0)
+        print(0);
