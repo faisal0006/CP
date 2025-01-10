@@ -1,5 +1,5 @@
 t=int(input())
-for _ in range(t):
+for i in range(t):
     x,k=map(int,input().split())
     if(x%k==0):
         print(2)
